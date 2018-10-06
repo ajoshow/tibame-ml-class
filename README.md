@@ -10,3 +10,4 @@ seaborn
 matplotlib  
 graphviz  
 jupyter  
+jieba
