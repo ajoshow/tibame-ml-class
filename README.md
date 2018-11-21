@@ -11,3 +11,4 @@ matplotlib
 graphviz  
 jupyter  
 jieba
+mlxtend
